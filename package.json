@@ -1,0 +1,32 @@
+{
+  "name": "crexi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://RomanOsadchy@bitbucket.org/victor_malyavko/crexi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/victor_malyavko/crexi#readme",
+  "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^2.10.0",
+    "cypress": "^8.3.1",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-grep": "^2.5.3",
+    "cypress-iframe": "^1.0.1",
+    "cypress-localstorage-commands": "^1.5.0",
+    "cypress-log-to-output": "^1.1.2",
+    "cypress-xpath": "^1.6.2",
+    "get-date": "^1.0.2"
+  },
+  "dependencies": {
+    "cypress-real-events": "^1.5.1",
+    "fs": "0.0.1-security",
+    "node-fetch": "^3.0.0",
+    "random-email": "^1.0.3"
+  }
+}
